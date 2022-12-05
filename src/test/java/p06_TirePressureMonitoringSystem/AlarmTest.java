@@ -10,8 +10,11 @@ import static org.mockito.Mockito.when;
 
 public class AlarmTest {
 
-    Alarm alarm;
-    Sensor sensor;
+    private static final double LOW_PRESSURE = 14.00;
+    private static final double HIGH_PRESSURE = 22.00;
+    private static final double NORMAL_PRESSURE = 20.00;
+    private Alarm alarm;
+    private Sensor sensor;
 
     @Before
     public void setUp() {
@@ -22,7 +25,7 @@ public class AlarmTest {
     @Test
     public void testAlarmHasToBeOnWithLowPressure() {
 
-        when(sensor.popNextPressurePsiValue()).thenReturn(14.00);
+        when(sensor.popNextPressurePsiValue()).thenReturn(LOW_PRESSURE);
         alarm.check();
         assertTrue(alarm.getAlarmOn());
     }
@@ -30,7 +33,7 @@ public class AlarmTest {
     @Test
     public void testAlarmHasToBeOnWithHighPressure() {
 
-        when(sensor.popNextPressurePsiValue()).thenReturn(22.00);
+        when(sensor.popNextPressurePsiValue()).thenReturn(HIGH_PRESSURE);
         alarm.check();
         assertTrue(alarm.getAlarmOn());
     }
@@ -38,7 +41,7 @@ public class AlarmTest {
     @Test
     public void testAlarmHasToBeOffWithPressureInNormalLimits() {
 
-        when(sensor.popNextPressurePsiValue()).thenReturn(20.00);
+        when(sensor.popNextPressurePsiValue()).thenReturn(NORMAL_PRESSURE);
         alarm.check();
         assertFalse(alarm.getAlarmOn());
     }
