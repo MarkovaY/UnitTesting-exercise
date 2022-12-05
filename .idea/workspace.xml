@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cea253df-d40a-47e6-8d31-09f62a3290b1" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ILuedlYhIPwZbn9M8bE9tTGjGt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "last_opened_file_path": "D:/Programming/unit-testing-excercise",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming\unit-testing-excercise" />
+      <recent name="D:\Programming\unit-testing-excercise\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming\unit-testing-excercise\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="p04_BubbleSortTest" />
+      <recent name="p06_TirePressureMonitoringSystem" />
+      <recent name="p03_IteratorTest" />
+      <recent name="p02_ExtendedDatabase" />
+      <recent name="p01_Database" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BubbleTest.testBubbleSort">
+    <configuration name="AlarmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p06_TirePressureMonitoringSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p06_TirePressureMonitoringSystem" />
+      <option name="MAIN_CLASS_NAME" value="p06_TirePressureMonitoringSystem.AlarmTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlarmTest.testAlarmHasToBeOffWithPressureInNormalLimits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p06_TirePressureMonitoringSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p06_TirePressureMonitoringSystem" />
+      <option name="MAIN_CLASS_NAME" value="p06_TirePressureMonitoringSystem.AlarmTest" />
+      <option name="METHOD_NAME" value="testAlarmHasToBeOffWithPressureInNormalLimits" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlarmTest.testAlarmHasToBeOn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p06_TirePressureMonitoringSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p06_TirePressureMonitoringSystem" />
+      <option name="MAIN_CLASS_NAME" value="p06_TirePressureMonitoringSystem.AlarmTest" />
+      <option name="METHOD_NAME" value="testAlarmHasToBeOn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlarmTest.testAlarmHasToBeOnWithHighPressure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p06_TirePressureMonitoringSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p06_TirePressureMonitoringSystem" />
+      <option name="MAIN_CLASS_NAME" value="p06_TirePressureMonitoringSystem.AlarmTest" />
+      <option name="METHOD_NAME" value="testAlarmHasToBeOnWithHighPressure" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleTest.testBubbleSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p04_BubbleSortTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="p04_BubbleSortTest" />
+      <option name="MAIN_CLASS_NAME" value="p04_BubbleSortTest.BubbleTest" />
+      <option name="METHOD_NAME" value="testBubbleSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BubbleTest.testBubbleSort" />
+        <item itemvalue="JUnit.AlarmTest" />
+        <item itemvalue="JUnit.AlarmTest.testAlarmHasToBeOnWithHighPressure" />
+        <item itemvalue="JUnit.AlarmTest.testAlarmHasToBeOffWithPressureInNormalLimits" />
+        <item itemvalue="JUnit.AlarmTest.testAlarmHasToBeOn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cea253df-d40a-47e6-8d31-09f62a3290b1" name="Changes" comment="" />
+      <created>1669973282389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669973282389</updated>
+      <workItem from="1669973283605" duration="13977000" />
+      <workItem from="1670234732901" duration="4140000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1669974881972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669974881972</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1670236545238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670236545238</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1670238879626</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670238879626</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1670238963907</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670238963907</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/p06_TirePressureMonitoringSystem/Sensor.java</url>
+          <line>12</line>
+          <properties class="p06_TirePressureMonitoringSystem.Sensor" method="popNextPressurePsiValue">
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/unit_testing_excercise$ListIteratorTest.ic" NAME="ListIteratorTest Coverage Results" MODIFIED="1669995173099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p03_IteratorTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/unit_testing_excercise$DatabaseTest.ic" NAME="DatabaseTest Coverage Results" MODIFIED="1669990236912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p01_Database.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/unit_testing_excercise$AlarmTest.ic" NAME="AlarmTest Coverage Results" MODIFIED="1670235967290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>p06_TirePressureMonitoringSystem.*</FILTER>
+    </SUITE>
+  </component>
+</project>
